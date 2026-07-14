@@ -5,3 +5,8 @@ if(list1 == copy_list):
     print("palindrome")
 else:
     print("not palindrome")
+
+grade =["A","C","D","A","E","A"]
+print(grade.count("A"))
+grade.sort()
+print(grade)
