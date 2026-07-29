@@ -1,0 +1,2 @@
+lis = [1,5,4,3,7,2,9]
+print(sorted(lis))
